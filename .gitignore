@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Data
+warehouse/
+minio_data/
+
+# Jupyter
+notebooks/.ipynb_checkpoints/
